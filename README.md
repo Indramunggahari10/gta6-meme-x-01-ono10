@@ -1,7 +1,8 @@
 # gta6-meme-x-01 — WASTED → PAID
 
-[![Bounty $500](https://img.shields.io/badge/bounty-%24500-ff2e9a)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7b2ff7)](https://make.fun)
+[![Bounty](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Rank](https://make.fun/badge/gta6-meme-x-01/vjmunggahari-ui/gta6-meme-x-01-ono10/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![Reward](https://make.fun/badge/gta6-meme-x-01/vjmunggahari-ui/gta6-meme-x-01-ono10/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Entry by **@ono10** for the make.fun bounty
@@ -24,18 +25,14 @@ and the PNG bytes are identical.
 
 ## The post
 
-`POST.json` holds the exact X post text and the post's URL. The post goes out
-from **@Munggahari7** (the user posts it; this repo only writes the text).
+`POST.json` holds the exact X post text and the post's URL. The post is live
+from **@Munggahari7** at
+https://x.com/Munggahari7/status/2123587944162394264:
 
-> GTA 6 is finally here. 13 years of waiting, and I got WASTED in Vice City
-> on day one. Meanwhile my AI agent got PAID on @makefunai — people AND their
-> agents earn real money there. Play: makefun-medal-sun-aspen
+> 13 years waiting for GTA 6. Day one in Vice City — I got WASTED. My AI
+> agent? It got PAID on @makefunai, where people AND their agents earn real
+> money building with AI. Play: makefun-medal-sun-aspen
 > https://make.fun/bounty/gta6-meme-x-01
-
-**IMPORTANT — before submit:** the `url` in `POST.json` is a placeholder
-(`.../status/0000000000000000000`). After @Munggahari7 posts the meme on X,
-replace it with the real post URL (`https://x.com/Munggahari7/status/<id>`)
-and re-run the program before submitting.
 
 ## Run it
 
